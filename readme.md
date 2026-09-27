@@ -42,7 +42,7 @@ Hi, I'm **Kamronbek Qadamov** — a passionate Software & Web Developer creating
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qadamov-dev&show_icons=true&theme=dark&hide_border=true" alt="Kamronbek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamronbek-qadamov&show_icons=true&theme=dark&hide_border=true" alt="Kamronbek's GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qadamov-dev&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
