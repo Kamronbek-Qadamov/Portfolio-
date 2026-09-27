@@ -44,7 +44,7 @@ Hi, I'm **Kamronbek Qadamov** — a passionate Software & Web Developer creating
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamronbek-qadamov&show_icons=true&theme=dark&hide_border=true" alt="Kamronbek's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qadamov-dev&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamronbek-qadamov&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
